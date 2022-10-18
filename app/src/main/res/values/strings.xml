@@ -6,4 +6,8 @@
     <!-- Paste BOTH strings as required -->
     <string name="back4app_app_id">7zhZWDmnkiExYZx5aGE6eROJ12Frnc4hCk7IQzGd</string>
     <string name="back4app_client_key">MCXiClG6zLvp6DToyyJDSjda2fvxKiCZwCyhb1Sr</string>
+    <string name="password">password</string>
+    <string name="username">Username</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
 </resources>
